@@ -1,0 +1,252 @@
+@insert[stdio.set]
+@insert[stdlib.set]
+
+
+func : int functhkjk (int xxx, dbl a)
+==>
+throw xxx #
+<==
+
+
+func : int functhkjk2 (int xxx, dbl a)
+==>
+<==
+
+
+base_function :
+==>
+
+var : int a #
+var : int aaa,b #
+var : char x#
+x='a' #
+var : string str1 #
+str1="khglhdlh.klkl" #
+var : dbl fjhjh167#
+a = 12 #
+b=a #
+aaa=a  jog  b #
+var : int  a2=23, a3=78 , jhfj= 8687 #
+
+!! array !!
+var : int arr1 [3] #
+arr1= [1,2] #
+
+aaa = a2 biyog a3 #
+var : char name#
+aaa=a2 mod a3 #
+aaa = a2 vag 0 #
+
+var :int sq = pow(2, 3) #
+ sq = log(1000) #
+sq = ln(a++) #
+sq = sqrt(5) #
+sq = factorial(5) #
+sq = sin(30) #
+sq=a2 & a3 #
+sq=a2 | a3 #
+sq= ^a2 #
+a++ #
+a-- #
+a = a jog (4 biyog 15) vag 3 mod 2 # 
+
+ 
+
+  whether [1]
+ {
+    a++ #
+ }
+
+
+
+
+
+
+
+
+ whether [10==100]
+ {
+    a-- #
+ }
+ else
+ {
+    a++ #
+ }
+
+
+
+whether [10 > 100]
+ {
+       a-- #
+}
+else whether [10 > 10]
+{
+       a-- #
+}  
+ else whether [10==10]
+{
+       a-- #
+ } 
+
+
+
+
+ whether [10 > 100]
+ {
+       a-- #
+}
+else whether [10 > 50]
+{
+       a-- #
+}  
+ else whether [10 > 10]
+{
+       a-- #
+} 
+else
+{
+  a=a gun 2 #
+} 
+
+
+
+
+
+
+  whether [10 > 100]
+ {
+       a = 5 #
+       whether [10 > 100]
+        {
+           a-- #
+        }
+        else whether [10 > 50]
+        {
+           a-- #
+        }  
+        else whether [10 > 10]
+       {
+           a-- #
+       } 
+       else
+       {
+           a=a gun 2 #
+       } 
+}
+else
+{
+      a= a jog 2 #
+}
+
+
+
+
+var :int j #
+loop [j = 1 : j <= 5 : j++]
+{
+       
+}
+var :int k #
+loop [k = 1 : k<5 : k++]
+{
+       
+}
+
+var :int ind #
+loop [ind= 20 : ind >= 15 : ind--]
+{
+   var : int xxx=3 #
+    whether [xxx < 100]  
+   {
+        xxx=600 #
+   }
+}
+
+
+loop [j = 1 : j <= 10 : j=j jog 3]
+{
+     xxx=300 #
+    whether [xxx < 100]  
+   {
+        xxx=600 #
+   }  
+}
+
+loop [j =  30 : j > 10 : j=j biyog 7]
+{
+     xxx=100 #
+    whether [xxx == 100]  
+   {
+        xxx=600 #
+   }  
+   loop [k = 1 : k<5 : k++]
+   {
+       
+   }
+
+}
+
+
+var :int input #
+
+show(xxx) #
+show("shimu")  #
+show("The value of xxxx = " @xxx)  #
+
+
+
+
+!! this is single sine comment. !!
+!* this
+is 
+Multiline
+comment
+*!
+
+call functhkjk (xxx, a) #
+call functhkjk () #
+call function_not_defined () #
+
+toggle[100]
+{
+   value 1 :
+   {
+      var : int line #
+       halt #
+   }
+   value 10 :
+   {
+       halt #
+   }
+   value 1000:
+   {
+       halt #
+   }
+   given :
+   {
+
+   }
+   
+
+}
+a=0 #
+while[a<6]
+{ 
+   a++ #
+   whether[a<2]
+   {
+      a++ #
+   }
+   
+}
+
+
+
+<==
+
+
+
+
+
+
+

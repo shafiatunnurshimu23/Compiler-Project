@@ -1,0 +1,301 @@
+return value
+User defined function ===> functhkjk 
+
+User defined function ===> functhkjk2 
+
+Variable declared
+
+Variable declared
+
+Variable declared
+
+ character Value assigned
+
+Variable declared
+
+ string Value assigned
+
+Variable declared
+
+Value assigned
+
+Value assigned
+
+Addition: 12 + 12 = 24
+Value assigned
+
+variable initialized
+
+variable initialized
+
+variable initialized
+
+this is single line comment
+Array declared
+
+Value assigned to array
+
+Subtraction: 23 - 78 = -55
+Value assigned
+
+Variable declared
+
+Modulus: 23 mod 78 = 23
+
+Value assigned
+
+Invalid !! Divisor is zero
+
+Value assigned
+
+Power: 2 ^ 3 = 8
+
+variable initialized
+
+log(1000) = 3.000000
+Value assigned
+
+ln(13) = 2.564949
+Value assigned
+
+Square Root of 5 = 2.2361
+
+Value assigned
+
+Factorial of 5 = 120
+
+Value assigned
+
+sin(30) = 0.50
+
+Value assigned
+
+logical AND: 23 & 78 = True
+
+Value assigned
+
+logical OR: 23 | 78 = True
+
+Value assigned
+
+logical AND: ^23= False
+
+Value assigned
+
+Value of expression = 13
+
+Value of expression = 11
+
+Subtraction: 4 - 15 = -11
+Division: -11 / 3 = -3
+
+Modulus: -3 mod 2 = -1
+
+Addition: 12 + -1 = 11
+Value assigned
+
+Value of expression = 12
+
+Whether Condition true.
+
+Equal: 10 == 100?
+No, Not Equal
+
+Value of expression = 10
+
+Value of expression = 12
+
+else Condition true.
+
+Greater Than: 10 > 100?
+No, 10 Not Greater
+
+Value of expression = 10
+
+Greater Than: 10 > 10?
+No, 10 Not Greater
+
+Value of expression = 10
+
+Equal: 10 == 10?
+Yes, 10 Equal
+
+Value of expression = 10
+
+else whether Condition true.
+
+Greater Than: 10 > 100?
+No, 10 Not Greater
+
+Value of expression = 10
+
+Greater Than: 10 > 50?
+No, 10 Not Greater
+
+Value of expression = 10
+
+Greater Than: 10 > 10?
+No, 10 Not Greater
+
+Value of expression = 10
+
+Multiplication: 11 x 2 = 22
+Value assigned
+
+else Condition true.
+
+Greater Than: 10 > 100?
+No, 10 Not Greater
+
+Value assigned
+
+Greater Than: 10 > 100?
+No, 10 Not Greater
+
+Value of expression = 4
+
+Greater Than: 10 > 50?
+No, 10 Not Greater
+
+Value of expression = 4
+
+Greater Than: 10 > 10?
+No, 10 Not Greater
+
+Value of expression = 4
+
+Multiplication: 5 x 2 = 10
+Value assigned
+
+else Condition true.
+
+Addition: 10 + 2 = 12
+Value assigned
+
+else Condition true.
+
+Variable declared
+
+Expression value = 1
+Expression value = 2
+Expression value = 3
+Expression value = 4
+Expression value = 5
+
+--- For Loop Ends --- 
+
+Variable declared
+
+Expression value = 1
+Expression value = 2
+Expression value = 3
+Expression value = 4
+
+--- For Loop Ends --- 
+
+Variable declared
+
+variable initialized
+
+Less Than: 3 < 100?
+Yes,3 Less
+
+Value assigned
+
+Whether Condition true.
+
+Expression value = 20
+Expression value = 19
+Expression value = 18
+Expression value = 17
+Expression value = 16
+Expression value = 15
+
+--- For Loop Ends --- 
+
+Value assigned
+
+Less Than: 300 < 100?
+No, 300 Not Less
+
+Value assigned
+
+whether Condition not true.
+
+Expression value = 1
+Expression value = 4
+Expression value = 7
+Expression value = 10
+
+--- For Loop Ends --- 
+
+Value assigned
+
+Equal: 100 == 100?
+Yes, 100 Equal
+
+Value assigned
+
+Whether Condition true.
+
+Expression value = 1
+Expression value = 2
+Expression value = 3
+Expression value = 4
+
+--- For Loop Ends --- 
+
+Expression value = 30
+Expression value = 23
+Expression value = 16
+
+--- For Loop Ends --- 
+
+Variable declared
+
+Print: 600
+
+Print: shimu
+
+Print: The value of xxxx = 600
+
+this is single line comment
+this is multiple line comment
+calling function
+
+calling function
+
+function not defined
+
+Variable declared
+
+matched for default case
+
+--- Switch Case ---
+
+Value assigned
+
+Less Than: 0 < 6?
+Yes,0 Less
+
+Value of expression = 1
+
+Less Than: 0 < 2?
+Yes,0 Less
+
+Value of expression = 1
+
+Whether Condition true.
+
+--- While Loop Starts --- 
+
+Inside While Loop
+
+--- While Loop Ends --- 
+
+main function
+
+dependency added
+
+dependency added
+
